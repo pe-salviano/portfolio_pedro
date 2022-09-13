@@ -1,0 +1,9 @@
+.formato-imagem{
+    border-radius: 5%;
+}
+
+.texto-habilidade{
+    font-family:'Roboto Slab', serif;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+}

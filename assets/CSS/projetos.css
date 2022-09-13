@@ -1,0 +1,28 @@
+#projetos{
+    background-color: #FFFFFF;
+   
+}
+
+.borda-card{
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.107);
+}
+
+.card-posicao-imagem{
+    height: 200px;   
+}
+
+.largura-card{
+   max-width: 20rem;
+}
+
+.cor-botao{
+    background-color: #204C72;
+    color: #FFFFFF;
+}
+
+.cor-botao:hover{
+    background-color: #FFFFFF;
+    color: black;
+    font-weight: bold;
+    border: 1px solid black;
+}

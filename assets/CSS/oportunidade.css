@@ -1,0 +1,20 @@
+.download-curriculo{
+    font-size: 1.2rem;
+    padding: 10px;
+    background-color: #204C72;
+    color: #FFFFFF;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.download-curriculo:hover{
+    background-color: red;
+    color: black;
+    font-weight: bold;
+    border: 1px solid black;
+    text-decoration: none;
+}
+
+.contato-email{
+    font-weight: bold;
+}

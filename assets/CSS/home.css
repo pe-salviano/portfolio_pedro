@@ -1,14 +1,28 @@
-.img__pedro{
+
+#img__pedro{
     width: 250px;
     height: 250px;
     border-radius: 50%;
+    margin-top: 60px;
 }
 
-/* .jumbotron-heading{
-    color: white;
-    font-size: 80px;
+.cor-home{
+    background-color: #204C72;
 }
-.lead{
-    color: white;
-    font-size: 30px;
-} */
+
+.titulo-home{
+    font-size: 4rem;
+    font-family: 'Roboto Slab', serif;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.bg-hr{
+    background: #FFFFFF;
+    height: 5px;
+}
+
+.info-home{
+    font-family: 'Roboto Slab', serif;
+    color: #FFFFFF;
+}

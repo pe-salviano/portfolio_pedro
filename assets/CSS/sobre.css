@@ -1,4 +1,17 @@
-.lead-sobre{
-    text-align: justify;
+.sobre{
+    background-color: #FFFFFF;
     
+}
+.titulo-sobre{
+    font-size: 4rem;
+    font-family: 'Roboto Slab', serif;
+    text-transform: uppercase;
+    color: #020408;
+
+}
+
+.texto-sobre{
+    color:#020408;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5rem;
 }
