@@ -4,6 +4,7 @@
 <h1>💻 <a href="COLOCAR LINK DO PORJETO PRONTO"> Portfólio </a></h1>
 
 
+<h2>⚔ Tecnologias Utilizadas</h2>
 
 <div style="display: inline_block">
 
