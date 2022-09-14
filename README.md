@@ -1,7 +1,7 @@
 
 
 
-<h1>💻 <a href="COLOCAR LINK DO PORJETO PRONTO"> Portfólio </a></h1>
+<h1>💻 <a href="https://pe-salviano.github.io/portifolio_pedro/"> Portfólio </a></h1>
 
 
 <h2>⚔ Tecnologias Utilizadas</h2>
@@ -30,7 +30,7 @@
   
 <a href = "mailto:pedro.salviano.cs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-salviano-857917116/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="COLOCAR LINK DO PORJETO PRONTO" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
+<a href="https://pe-salviano.github.io/portifolio_pedro/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
   
 </div>
 
