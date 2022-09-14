@@ -1,7 +1,7 @@
 
 
 
-<h1>💻 <a href="https://pe-salviano.github.io/portifolio_pedro/"> Portfólio </a></h1>
+<h1>💻 <a href="https://pe-salviano.github.io/portifolio_pedro/" target="_blank"> Portfólio </a></h1>
 
 
 <h2>⚔ Tecnologias Utilizadas</h2>
