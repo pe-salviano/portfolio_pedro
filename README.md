@@ -16,7 +16,7 @@
 
 <h2>:bookmark_tabs: Descrição</h2>
 <p>Esse é um portfólio desenvolvido para colocar os meus projetos na rede. Irei atualizando conforme a evolução dos meus conhecimentos. </p>
-<p><a href="https://pe-salviano.github.io/portifolio_pedro/"> Link de acesso ao projeto </a></p>
+<p><a href="https://pe-salviano.github.io/portfolio_pedro/"> Link de acesso ao projeto </a></p>
 
 
 ## Layout mobile
